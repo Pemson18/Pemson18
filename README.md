@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Pemson18
-- 👀 I’m interested in Web Dev
-- 🌱 I’m currently learning JavaScript
+- 👀 I’m interested in all things web
+- 🌱 I’m on drupal.org/u/pemson18
 - 💞️ I’m looking to collaborate on Web Projects
 - 📫 How to reach me pemson18@gmail.com
 <!---
