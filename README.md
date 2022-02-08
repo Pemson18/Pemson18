@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Pemson18
-- 👀 I’m interested in all things web
-- 🌱 I’m on drupal.org/u/pemson18
+- 👀 I’m interested in all things Web and Drupal
+- 🌱 I’m on drupal.org/u/pemson18 and linkedin https://www.linkedin.com/in/pemson18/
 - 💞️ I’m looking to collaborate on Web Projects
 - 📫 How to reach me pemson18@gmail.com
 <!---
